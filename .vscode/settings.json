@@ -1,0 +1,5 @@
+{
+    "workbench.settings.editor": "ui",
+    "python.linting.pylintEnabled": true,
+    "python.linting.pycodestyleEnabled":true
+}
